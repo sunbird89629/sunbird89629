@@ -1,14 +1,18 @@
 ### Hi, I'm Howard 👋
 
-I'm a mobile & full-stack developer based in Beijing, passionate about building clean developer tools and great user experiences.
+Mobile & full-stack developer in Beijing. I like small, sharp developer tools and building fluent workflows around them.
+
+Currently exploring **Flutter desktop + AI agents** for Android automation.
 
 ---
 
 **What I'm building**
 
-- 🔍 [**http_inspector**](https://github.com/sunbird89629/http_inspector) — A lightweight HTTP inspector for Flutter apps, inspect network requests in real time
-- 💻 [**studio**](https://github.com/sunbird89629/studio) — Flutter-based terminal emulator and more
-- 📟 [**ClawClaw**](https://github.com/sunbird89629/ClawClaw) — Customized openClaw message terminal
+- 🤖 [**autoglm_scrcpy_flutter**](https://github.com/sunbird89629/autoglm_scrcpy_flutter) — Flutter desktop workspace for Android automation with ADB, scrcpy, and MCP integration
+- 🔍 [**http_inspector**](https://github.com/sunbird89629/http_inspector) — Lightweight in-app HTTP inspector for Flutter (real-time network capture)
+- 🛠️ [**flutter_ci_tools**](https://github.com/sunbird89629/flutter_ci_tools) — Reusable CI tooling for Flutter apps (build orchestration, git versioning, deploy, logging)
+- 📟 [**ClawClaw**](https://github.com/sunbird89629/ClawClaw) — Customized openClaw message terminal client
+- 🧪 [**debug_sheet**](https://github.com/sunbird89629/debug_sheet) · [**logger_utils**](https://github.com/sunbird89629/logger_utils) — In-app debug panel & structured logging for Flutter
 
 ---
 
