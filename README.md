@@ -8,11 +8,16 @@ Currently exploring **Flutter desktop + AI agents** for Android automation.
 
 **What I'm building**
 
-- 🤖 [**autoglm_scrcpy_flutter**](https://github.com/sunbird89629/autoglm_scrcpy_flutter) — Flutter desktop workspace for Android automation with ADB, scrcpy, and MCP integration
+- 🤖 [**scrcpy_flutter**](https://github.com/sunbird89629/scrcpy_flutter) — Flutter desktop workspace for Android automation with ADB, scrcpy, and MCP integration
 - 🔍 [**http_inspector**](https://github.com/sunbird89629/http_inspector) — Lightweight in-app HTTP inspector for Flutter (real-time network capture)
 - 🛠️ [**flutter_ci_tools**](https://github.com/sunbird89629/flutter_ci_tools) — Reusable CI tooling for Flutter apps (build orchestration, git versioning, deploy, logging)
 - 📟 [**ClawClaw**](https://github.com/sunbird89629/ClawClaw) — Customized openClaw message terminal client
 - 🧪 [**debug_sheet**](https://github.com/sunbird89629/debug_sheet) · [**logger_utils**](https://github.com/sunbird89629/logger_utils) — In-app debug panel & structured logging for Flutter
+
+**Contributes to**
+
+- [**jackwener/OpenCLI**](https://github.com/jackwener/OpenCLI) — Turn any website or tool into a CLI for AI agents
+- [**Ar9av/obsidian-wiki**](https://github.com/Ar9av/obsidian-wiki) — Framework for AI agents to build a digital brain in Obsidian
 
 ---
 
