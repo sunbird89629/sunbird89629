@@ -32,12 +32,3 @@ Currently exploring **Flutter desktop + AI agents** for Android automation.
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
-**GitHub**
-
-<a href="https://github.com/sunbird89629">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunbird89629&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=issues" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbird89629&layout=compact&hide_border=true&langs_count=8&hide=html,css" height="150" />
-</a>
