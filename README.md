@@ -2,18 +2,19 @@
 
 Mobile & full-stack developer in Beijing. I like small, sharp developer tools and building fluent workflows around them.
 
-Currently exploring **Flutter desktop + AI agents** for Android automation.
+Currently building **pake_mobile** — pack any webpage into Android / iOS apps from a single Flutter codebase.
 
 ---
 
 **What I'm building**
 
-- 🤖 [**scrcpy_flutter**](https://github.com/sunbird89629/scrcpy_flutter) — Flutter desktop workspace for Android automation with ADB, scrcpy, and MCP integration
+- 📦 [**pake_mobile**](https://github.com/sunbird89629/pake_mobile) — Pack any webpage into Android / iOS apps from a single Flutter codebase
 - 🔍 [**http_inspector**](https://github.com/sunbird89629/http_inspector) — Lightweight in-app HTTP inspector for Flutter (real-time network capture)
 - 🛠️ [**flutter_ci_tools**](https://github.com/sunbird89629/flutter_ci_tools) — Reusable CI tooling for Flutter apps (build orchestration, git versioning, deploy, logging)
 - ☁️ [**http_mock**](https://github.com/sunbird89629/http_mock) — Programmable HTTP mock server on Cloudflare Workers — deploy once, mock anywhere
 - 🧩 [**mini-utils**](https://github.com/sunbird89629/mini-utils) — VS Code extension with everyday productivity commands for Flutter/Dart devs
 - 🧪 [**debug_sheet**](https://github.com/sunbird89629/debug_sheet) · [**logger_utils**](https://github.com/sunbird89629/logger_utils) — In-app debug panel & structured logging for Flutter
+- 🤖 [**scrcpy_flutter**](https://github.com/sunbird89629/scrcpy_flutter) — Flutter desktop workspace for Android automation with ADB, scrcpy, and MCP integration
 
 **Contributes to**
 
